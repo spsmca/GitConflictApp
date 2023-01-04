@@ -1,4 +1,4 @@
-package demo.repo.git.bitbucket.app;
+package demo.repo.git.github.app;
 
 public class C {
 

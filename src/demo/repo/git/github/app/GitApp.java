@@ -1,9 +1,9 @@
-package demo.repo.git.bitbucket.app;
+package demo.repo.git.github.app;
 import java.io.*;
 import java.util.*;
 
 public class GitApp {
-    static String path="src\\demo\\repo\\git\\bitbucket\\app\\";
+    static String path="src\\demo\\repo\\git\\github\\app\\";
 	public static void main(String[] args) {
 		System.out.println("--------------" );
 		dispLines(A.getLines());
