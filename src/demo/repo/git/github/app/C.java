@@ -7,7 +7,7 @@ public class C {
 		sb.append(" C.First ");
 		sb.append("\n C.V1  ");
 		sb.append("\n C.Last ");
-		sb.append("\n C.NewLocalRemote ");
+		sb.append("\n C.NewLocal ");
 		return sb.toString();
 	}
 	
